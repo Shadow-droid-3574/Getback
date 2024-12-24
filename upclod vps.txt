@@ -1,0 +1,5 @@
+ip address: 194.62.96.110
+password: shadow69
+
+cmd: ssh root@194.62.96.110
+
