@@ -3,3 +3,6 @@ password: shadow69
 
 cmd: ssh root@194.62.96.110
 
+new server
+root@209.151.153.128
+pass: shadow07
